@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a>
-    <img src="https://skillicons.dev/icons?i=py,c,cs,bash,git,github,emacs,js,html,&theme=dark&perline=5">
+    <img src="https://skillicons.dev/icons?i=py,c,cs,bash,git,github,emacs,lua,js,html,&theme=dark&perline=5">
     </a>
 </p>
 
