@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi 👋! My name is Ugo Maddalena Chupin and I'm new developper from France</h2>
 
+<h4 align="left">🏫 1st year student at Epitech Nice<br />
+🎮 future game dev</h4>
+
 ###
 
 <div align="left">
