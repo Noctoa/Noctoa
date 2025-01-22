@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk0bXljM3V3Z3F6aHphZ3k0b3Jxc2RlYzNkc2I0ZzQ5bHQ2eTdlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.gif"  />
 
 ###
 
