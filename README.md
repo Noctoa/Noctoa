@@ -15,17 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is Ugo Maddalena Chupin and I'm a new developper from France</h2>
+<h2 align="left">Hi 👋! My name is Ugo Maddalena Chupin and I'm a developper from France</h2>
 
-<h4 align="left">🏫 1st year student at Epitech Nice<br />
-🎮 future game dev</h4>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noctoa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noctoa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
-</div>
+<h4 align="left">🏫 3rd year student at Epitech Nice<br />
+🎮 Future game dev</h4>
 
 ###
 
@@ -35,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a>
-    <img src="https://skillicons.dev/icons?i=py,c,cs,bash,git,github,emacs,lua,js,html,&theme=dark&perline=5">
+    <img src="https://skillicons.dev/icons?i=c++,c,cs,bash,git,github,py,lua,js,emacs,&theme=dark&perline=5">
     </a>
 </p>
 
