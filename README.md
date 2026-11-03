@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a>
-    <img src="https://skillicons.dev/icons?i=c++,c,cs,bash,git,github,py,lua,js,emacs,&theme=dark&perline=5">
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,bash,git,github,py,lua,js,emacs,&theme=dark&perline=5">
     </a>
 </p>
 
